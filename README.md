@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Jacinta100
-- 👀 I’m interested in imroving user interface for brands I will be working with.
+- 👋 Hi, I’m @Jacinta100 
+- 👀 I’m interested in improving user interface for brands I will be working with.
 - 🌱 I’m currently learning how software can be made more energy efficient
 - 💞️ I’m looking  forward to collaborate on projects that solve real world problems
 - 📫 How to reach me :ugwujacintafavour@gmail.com
